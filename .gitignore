@@ -1,0 +1,12 @@
+
+*.csproj
+*.pdb
+*.exe
+*.cache
+*.config
+.vs/SOLID/v14/.suo
+SOLID/SOLID.csproj
+SOLID/obj/Debug/SOLID.csprojResolveAssemblyReference.cache
+SOLID/obj/Debug/SOLID.exe
+SOLID/obj/Debug/SOLID.csprojResolveAssemblyReference.cache
+SOLID/obj/Debug/SOLID.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SOLID.OpenClosed.Old
+namespace SOLID.OpenClosed.Problem
 {
 
     class Program
